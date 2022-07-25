@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Board for Arduino'
+project = 'ESAY PLUG Board'
 copyright = 'keyestudio'
 author = 'keyestudio'
 
